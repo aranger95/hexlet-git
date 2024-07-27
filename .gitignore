@@ -1,6 +1,8 @@
-access.log
-node_modules/
-/coverage/
-/db/*.sqlite3
-doc/**/*.txt
-INFO.md
+*.egg-info
+__pycache__
+dist/
+*.pyc
+.venv/
+.coverage
+coverage.xml
+.pytest_cache/
